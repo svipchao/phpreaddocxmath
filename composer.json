@@ -1,0 +1,17 @@
+{
+    "name": "poetry/phpreaddocxmath",
+    "description": "php read docx include math",
+    "type": "library",
+    "require": {
+        "php": ">=7.0"
+    },
+    "authors": [
+        {
+            "name": "xiangwang"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {"cccms\\phpreaddocxmath\\": "src/"}
+    }
+}
