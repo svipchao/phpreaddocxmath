@@ -151,7 +151,7 @@ class FontExtract extends ExtractAbstruct
     }
 
     /**
-     *匹配加粗
+     * 匹配加粗
      */
     private function matchFontWeightBold($string)
     {
@@ -223,5 +223,4 @@ class FontExtract extends ExtractAbstruct
         }
         return '';
     }
-
 }

@@ -17,7 +17,6 @@ class SupExtract extends ExtractAbstruct
      */
     protected $grep = '/<w:vertAlign w:val="superscript".*?w:r>/';
 
-
     /**
      * @var string
      */

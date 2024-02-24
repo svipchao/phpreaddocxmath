@@ -90,6 +90,4 @@ abstract class ExtractAbstruct
         $this->end_index and $string = str_replace($this->end_index, $this->end_tag, $string);
         return $string;
     }
-
-
 }
